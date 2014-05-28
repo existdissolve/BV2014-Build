@@ -1,0 +1,1 @@
+["function _c9865ec7058411bc7ea781eac063ad650860cac",49,539425,"fullscreen:true,config:{ui:\"plain",513272,32,"null},items:[{xtype:\"schedulelist\"}],navigationBar:{items:[{iconCls:\"more\",itemId:\"moremenu\",handler:function(){Ext.Viewport.child(\"mainmenu\").toggle()}}]",503656,58,543191,33,539602,6841,"{xtype:\"mainmenu\"}",546424,57,546518,375]
